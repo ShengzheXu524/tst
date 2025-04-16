@@ -23,9 +23,3 @@ if __name__ == "__main__":
     print("Original array:", test_array)
     sorted_array = bubble_sort(test_array)
     print("Sorted array:", sorted_array) 
-
-    sdlflsdkjf
-
-
-    sdlkfjsldjf
-    
